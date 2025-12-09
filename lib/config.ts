@@ -9,17 +9,14 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
     label: "How does Oregon PIP work?",
     prompt: "How does Oregon PIP work after a car accident?",
-    icon: "car",
   },
   {
     label: "What injuries do you treat?",
     prompt: "What types of injuries can Crash Care Clinics help with?",
-    icon: "stethoscope",
   },
   {
     label: "How do I start care?",
     prompt: "How do I start treatment after a car crash?",
-    icon: "calendar",
   },
 ];
 
